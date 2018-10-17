@@ -1,6 +1,6 @@
 # Clinton_Emails
 
-The following project reads in a csv containing the raw text from Clinton emails and extracts the cities, countries, and the associated year that the locatino was mentioned.
+The following project reads in a csv containing the raw text from Clinton emails and extracts the cities, countries, and the associated year that the location was mentioned.
 
 The following files are included in thie project:
 
